@@ -1,1 +1,1 @@
-# data_scientiste
+# data_scientist
